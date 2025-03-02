@@ -49,11 +49,3 @@ This application explores the power of Web3, using blockchain technologies to pr
    npm start
    ```
 
-## 🎯 Contributions
-Contributions are welcome! If you have ideas to improve the application, feel free to create a pull request or open an issue.
-
-## 📜 License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-🚀 **Developed with passion for the future of Web3!**
