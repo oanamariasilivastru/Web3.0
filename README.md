@@ -3,7 +3,7 @@
 A Web3 project leveraging blockchain technologies for a decentralized experience.
 
 ## 📌 Description
-This application explores the power of Web3, using blockchain technologies to provide a secure and decentralized experience. The project enables users to interact with smart contracts and perform transactions without intermediaries.
+This application explores the power of Web3, using blockchain technologies to provide a secure and decentralized experience.
 
 ## 🚀 Features
 - **Authentication with crypto wallets** (e.g., MetaMask)
@@ -15,8 +15,8 @@ This application explores the power of Web3, using blockchain technologies to pr
 ## 🛠️ Technologies Used
 - **Frontend:** React + TailwindCSS / Material UI
 - **Blockchain:** Solidity + Ethereum Smart Contracts
-- **Backend (optional):** Node.js / Express.js
-- **Web3 Connectivity:** Ethers.js or Web3.js
+- **Backend (optional):** Node.js
+- **Web3 Connectivity:** Ethers.js
 
 ## 📂 Project Structure
 ```plaintext
